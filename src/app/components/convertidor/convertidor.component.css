@@ -1,0 +1,16 @@
+.container{
+  color: white;
+}
+
+.form-control{
+  text-align: center;
+}
+
+.badge{
+  margin: 2px;
+  font-size: 150%;
+}
+
+label{
+  font-size: 150%;
+}
